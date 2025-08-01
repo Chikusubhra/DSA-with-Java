@@ -1,3 +1,4 @@
+.vscode
 LinearSearch.class
 ReverseArr.class
 SearchRange.class
@@ -6,3 +7,7 @@ Search2DArr.class
 evenDigitLeet.class
 maxWealth.class
 BinarySearch.class
+FirstAndLasrPosn.class
+InfiniteArray.class
+MountainArray.class
+searchMountainArray.class
